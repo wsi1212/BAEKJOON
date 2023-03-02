@@ -10,6 +10,7 @@ public class P1000 {
         a = sc.nextInt();
         b=sc.nextInt();
         System.out.println(a+b);
+        sc.close();
     }
 
 }
