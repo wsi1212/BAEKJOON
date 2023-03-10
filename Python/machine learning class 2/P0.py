@@ -1,5 +1,3 @@
-a=input()
-if(a%3==0):
-    print(a**2)
-else:
-    print(0)
+a=input("태어난 련도를 립력하세요")
+print(a,"년")
+print(2024-int(a))
