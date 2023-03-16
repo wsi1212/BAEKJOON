@@ -5,48 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="257ec883-0cea-4d62-a018-cff2743a0573" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vscode/tasks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C/P1092.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C/output/P1092" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C/output/P1092.dSYM/Contents/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C/output/P1092.dSYM/Contents/Resources/DWARF/P1092" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/.idea/BAEKJOON.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/C/P1092.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/C/P1110.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/C/P3460.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/Java/P1000.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/Java/P2338.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/Java/P2420.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/META-INF/BAEKJOON.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/P1001Kt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/Python/P1271.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/Python/P2083.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/Python/machine learning class/P1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/Python/machine learning class/P10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/Python/machine learning class/P11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/Python/machine learning class/P12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/Python/machine learning class/P13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/Python/machine learning class/P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/Python/machine learning class/P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/Python/machine learning class/P4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/Python/machine learning class/P5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/Python/machine learning class/P6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/Python/machine learning class/P7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/Python/machine learning class/P8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/Python/machine learning class/P9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/production/BAEKJOON/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/BAEKJOON.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BAEKJOON.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C/P1264.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/P2420.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/P2420.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin/P1001.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin/P1001.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,23 +46,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/user/Desktop/develop/clubrope/BAEKJOON/무제/BAEKJOON&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.Kotlin&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/user/Desktop/develop/clubrope/BAEKJOON/무제/BAEKJOON",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.language.Kotlin",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Java" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="P1152" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="BAEKJOON" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/P1152.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -115,6 +102,7 @@
       <updated>1677741465253</updated>
       <workItem from="1678322206795" duration="89000" />
       <workItem from="1678326048756" duration="4000" />
+      <workItem from="1678947897163" duration="315000" />
     </task>
     <servers />
   </component>
