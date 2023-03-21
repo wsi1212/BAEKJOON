@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="257ec883-0cea-4d62-a018-cff2743a0573" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python/P11945.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/P15894.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/P2422.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/P25083.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/P25592.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/P26645.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/P27908.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/P4344.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/machine learning class 5/P0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/machine learning class 5/P1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/machine learning class 5/P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/P16114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/P17204.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/P27165.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +108,7 @@
       <workItem from="1678326048756" duration="4000" />
       <workItem from="1678947897163" duration="315000" />
       <workItem from="1679213802479" duration="2006000" />
-      <workItem from="1679272859750" duration="14782000" />
+      <workItem from="1679272859750" duration="39027000" />
     </task>
     <servers />
   </component>
@@ -132,11 +124,14 @@
     <SUITE FILE_PATH="coverage/BAEKJOON$P11945.coverage" NAME="P11945 커버리지 결과" MODIFIED="1679274573142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/BAEKJOON$P1152.coverage" NAME="P1152 커버리지 결과" MODIFIED="1679272967254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/BAEKJOON$P2.coverage" NAME="P2 커버리지 결과" MODIFIED="1679274326894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/machine learning class 5" />
+    <SUITE FILE_PATH="coverage/BAEKJOON$P27165.coverage" NAME="P27165 커버리지 결과" MODIFIED="1679410264075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/BAEKJOON$P10250.coverage" NAME="P10250 커버리지 결과" MODIFIED="1679215672284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/BAEKJOON$P17204.coverage" NAME="P17204 커버리지 결과" MODIFIED="1679323172765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/BAEKJOON$P0.coverage" NAME="P0 커버리지 결과" MODIFIED="1679273326206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/machine learning class 5" />
     <SUITE FILE_PATH="coverage/BAEKJOON$P2422.coverage" NAME="P2422 커버리지 결과" MODIFIED="1679293085198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
-    <SUITE FILE_PATH="coverage/BAEKJOON$P25592.coverage" NAME="P25592 커버리지 결과" MODIFIED="1679302437648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/BAEKJOON$P25592.coverage" NAME="P25592 커버리지 결과" MODIFIED="1679302493334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/BAEKJOON$P25083.coverage" NAME="P25083 커버리지 결과" MODIFIED="1679272984289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
-    <SUITE FILE_PATH="coverage/BAEKJOON$P10250.coverage" NAME="P10250 커버리지 결과" MODIFIED="1679215672284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/BAEKJOON$P27908.coverage" NAME="P27908 커버리지 결과" MODIFIED="1679301940648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/BAEKJOON$P16114.coverage" NAME="P16114 커버리지 결과" MODIFIED="1679365878250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
   </component>
 </project>
