@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="257ec883-0cea-4d62-a018-cff2743a0573" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python/P11050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/P11650.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/P18110.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/P2231.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/P2751.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/P10845.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/P10866.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/P11651.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/P1929.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/P2292.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,10 +58,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.P10845.executor": "Run",
+    "Python.P10866.executor": "Run",
     "Python.P11050.executor": "Run",
     "Python.P11650.executor": "Run",
+    "Python.P11651.executor": "Run",
     "Python.P18110.executor": "Run",
+    "Python.P1929.executor": "Run",
     "Python.P2231.executor": "Run",
+    "Python.P2292.executor": "Run",
     "Python.P2751.executor": "Run",
     "Python.P2775.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -151,6 +156,7 @@
       <workItem from="1694131413304" duration="2000" />
       <workItem from="1702721370530" duration="2769000" />
       <workItem from="1702811773855" duration="10558000" />
+      <workItem from="1702867173840" duration="9331000" />
     </task>
     <servers />
   </component>
@@ -179,6 +185,7 @@
     <SUITE FILE_PATH="coverage/BAEKJOON$P2422.coverage" NAME="P2422 커버리지 결과" MODIFIED="1679293085198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/BAEKJOON$P11050.coverage" NAME="P11050 Coverage Results" MODIFIED="1702817564251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/BAEKJOON$P2805.coverage" NAME="P2805 Coverage Results" MODIFIED="1684997717287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/BAEKJOON$P11651.coverage" NAME="P11651 Coverage Results" MODIFIED="1702881801927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/BAEKJOON$P14681.coverage" NAME="P14681 Coverage Results" MODIFIED="1681360985790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/BAEKJOON$P1152.coverage" NAME="P1152 Coverage Results" MODIFIED="1681352976230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/BAEKJOON$P2751.coverage" NAME="P2751 Coverage Results" MODIFIED="1702816783521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
@@ -190,8 +197,11 @@
     <SUITE FILE_PATH="coverage/BAEKJOON$P16114.coverage" NAME="P16114 커버리지 결과" MODIFIED="1679365878250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/BAEKJOON$P15829.coverage" NAME="P15829 Coverage Results" MODIFIED="1684983713968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/BAEKJOON$P15552.coverage" NAME="P15552 Coverage Results" MODIFIED="1681361575426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/BAEKJOON$P2292.coverage" NAME="P2292 Coverage Results" MODIFIED="1702876351016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/BAEKJOON$P1929.coverage" NAME="P1929 Coverage Results" MODIFIED="1702890912413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/BAEKJOON$P11382.coverage" NAME="P11382 Coverage Results" MODIFIED="1681360247900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/BAEKJOON$test.coverage" NAME="test 커버리지 결과" MODIFIED="1679560960058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/BAEKJOON$P10866.coverage" NAME="P10866 Coverage Results" MODIFIED="1702885632761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/BAEKJOON$1003.coverage" NAME="1003 Coverage Results" MODIFIED="1681483799329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/BAEKJOON$P20301.coverage" NAME="P20301 Coverage Results" MODIFIED="1681383936782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/BAEKJOON$P25083.coverage" NAME="P25083 커버리지 결과" MODIFIED="1679272984289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
@@ -204,5 +214,6 @@
     <SUITE FILE_PATH="coverage/BAEKJOON$P17204.coverage" NAME="P17204 커버리지 결과" MODIFIED="1679323172765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/BAEKJOON$1037.coverage" NAME="1037 Coverage Results" MODIFIED="1684831574174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/BAEKJOON$P2231.coverage" NAME="P2231 Coverage Results" MODIFIED="1702867059054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/BAEKJOON$P10845.coverage" NAME="P10845 Coverage Results" MODIFIED="1702882783618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
   </component>
 </project>
